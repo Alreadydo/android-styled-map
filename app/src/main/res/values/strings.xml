@@ -1,0 +1,27 @@
+<resources>
+
+    <!--    Main app strings    -->
+    <string name="app_name">DN Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_not_ready">Map is not ready yet</string>
+    <string name="settings">Settings</string>
+
+    <!--    Marker info window strings    -->
+    <string name="snippet_zone1">Bus Zone 1: Encounter Bay - 3 stops</string>
+    <string name="snippet_zone2">Bus Zone 2: Beachfront Holiday Park - 1 stop</string>
+    <string name="snippet_zone3">Bus Zone 3: Adare Caravan Park - 1 stop</string>
+    <string name="snippet_zone4">Bus Zone 4: Hayborough &amp; Port Elliot - 4 stops</string>
+    <string name="snippet_zone5">Bus Zone 5: Middleton &amp; Goolwa - 7 stops</string>
+    <string name="snippet_warland_reserve">Schoolies Festival™ Warland Reserve</string>
+
+    <!--    Location permission    -->
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core functionality.</string>
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_rationale_location">Access to the location service is required to show your current location on the map.</string>
+    <string name="location_permission_denied">This feature requires location permission to enable
+        the \'my location\' layer. Please try again and grant access to use the location.\nIf the
+        permission has been permanently denied, it can be enabled from the
+        System Settings &gt; Apps &gt; \'Snag a Snag\'.</string>
+    <string name="permission_required_toast">Location permission is required for this feature.</string>
+
+</resources>

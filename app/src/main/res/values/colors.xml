@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorPolyLineBlue">#29AAE1</color>
+    <color name="colorPolyLineOrange">#F8A15B</color>
+    <color name="colorPolyLineViolet">#AC4298</color>
+    <color name="colorPolyLineGreen">#57BA48</color>
+    <color name="colorPolyLinePink">#ED4C9B</color>
+    <color name="colorMainMarker">#253F8E</color>
+
+
+</resources>
